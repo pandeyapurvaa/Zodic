@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Zodic/static/css/main.dffc2286.chunk.css",
+    "main.js": "/Zodic/static/js/main.b7186669.chunk.js",
+    "main.js.map": "/Zodic/static/js/main.b7186669.chunk.js.map",
+    "runtime-main.js": "/Zodic/static/js/runtime-main.c1fa7a31.js",
+    "runtime-main.js.map": "/Zodic/static/js/runtime-main.c1fa7a31.js.map",
+    "static/js/2.d6d52d6d.chunk.js": "/Zodic/static/js/2.d6d52d6d.chunk.js",
+    "static/js/2.d6d52d6d.chunk.js.map": "/Zodic/static/js/2.d6d52d6d.chunk.js.map",
+    "static/js/3.25cc690c.chunk.js": "/Zodic/static/js/3.25cc690c.chunk.js",
+    "static/js/3.25cc690c.chunk.js.map": "/Zodic/static/js/3.25cc690c.chunk.js.map",
+    "index.html": "/Zodic/index.html",
+    "static/css/main.dffc2286.chunk.css.map": "/Zodic/static/css/main.dffc2286.chunk.css.map",
+    "static/js/2.d6d52d6d.chunk.js.LICENSE.txt": "/Zodic/static/js/2.d6d52d6d.chunk.js.LICENSE.txt",
+    "static/media/aqarius.20f1ea6e.png": "/Zodic/static/media/aqarius.20f1ea6e.png",
+    "static/media/aries.cddc0547.png": "/Zodic/static/media/aries.cddc0547.png",
+    "static/media/index.css": "/Zodic/static/media/background.70ecdd30.jpg",
+    "static/media/cancer.bc3a40e7.png": "/Zodic/static/media/cancer.bc3a40e7.png",
+    "static/media/capricorn.950e2460.png": "/Zodic/static/media/capricorn.950e2460.png",
+    "static/media/gemini.04c2c508.png": "/Zodic/static/media/gemini.04c2c508.png",
+    "static/media/leo.48446cb0.png": "/Zodic/static/media/leo.48446cb0.png",
+    "static/media/libra.846c3938.png": "/Zodic/static/media/libra.846c3938.png",
+    "static/media/pisces.01e695dc.png": "/Zodic/static/media/pisces.01e695dc.png",
+    "static/media/sagittarius.804c804f.png": "/Zodic/static/media/sagittarius.804c804f.png",
+    "static/media/scorpio.c61baf7f.png": "/Zodic/static/media/scorpio.c61baf7f.png",
+    "static/media/taurus.8dd441c2.png": "/Zodic/static/media/taurus.8dd441c2.png",
+    "static/media/virgo.65b23273.png": "/Zodic/static/media/virgo.65b23273.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1fa7a31.js",
+    "static/js/2.d6d52d6d.chunk.js",
+    "static/css/main.dffc2286.chunk.css",
+    "static/js/main.b7186669.chunk.js"
+  ]
+}
